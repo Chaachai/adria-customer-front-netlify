@@ -1,0 +1,91 @@
+:root { 
+  --athens-gray: #eeeff5;
+  --background: #2b2b2b;
+  --background---secondary: #3b3b3b;
+  --black: #000000;
+  --congress-blue: #004a91;
+  --geyser: #d8d9e4;
+  --martinique: #34345b;
+  --monza: #e9001f;
+  --steel-blue: #487caf;
+  --text: #ffffff;
+  --waterloo-: #838395;
+ 
+  --font-size-l: 12px;
+  --font-size-m: 11px;
+  --font-size-s: 10px;
+  --font-size-xl: 14px;
+  --font-size-xxl: 18px;
+  --font-size-xxxl: 24px;
+  --font-size-xxxxl: 67px;
+ 
+  --font-family-inter: "Inter", Helvetica;
+  --font-family-space_mono-bold: "Space Mono-Bold", Helvetica;
+  --font-family-space_mono-regular: "Space Mono-Regular", Helvetica;
+  --font-family-work_sans-bold: "Work Sans-Bold", Helvetica;
+  --font-family-work_sans-regular: "Work Sans-Regular", Helvetica;
+  --font-family-work_sans-semibold: "Work Sans-SemiBold", Helvetica;
+}
+.inter-bold-waterloo--11px {
+  color: var(--waterloo-);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.worksans-bold-white-24px {
+  color: var(--text);
+  font-family: var(--font-family-work_sans-bold);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.spacemono-regular-normal-white-14px {
+  color: var(--text);
+  font-family: var(--font-family-space_mono-regular);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.inter-bold-martinique-11px {
+  color: var(--martinique);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.inter-bold-steel-blue-10px {
+  color: var(--steel-blue);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.inter-bold-white-12px {
+  color: var(--text);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.worksans-semi-bold-white-67px {
+  color: var(--text);
+  font-family: var(--font-family-work_sans-semibold);
+  font-size: var(--font-size-xxxxl);
+  font-style: normal;
+  font-weight: 600;
+}
+
+.spacemono-bold-white-24px {
+  color: var(--text);
+  font-family: var(--font-family-space_mono-bold);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 700;
+}

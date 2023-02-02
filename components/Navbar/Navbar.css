@@ -1,0 +1,83 @@
+.navbar {
+  align-items: flex-start;
+  display: flex;
+  height: 13px;
+  margin-left: 16px;
+  margin-top: 25px;
+  min-width: 1355px;
+}
+
+.data-1 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 13px;
+  min-width: 33px;
+}
+
+.data-2 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 120px;
+  min-height: 13px;
+  min-width: 35px;
+}
+
+.data-3 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 343px;
+  min-height: 13px;
+  min-width: 35px;
+}
+
+.data-4 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 111px;
+  min-height: 13px;
+  min-width: 36px;
+}
+
+.data-5 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 87px;
+  min-height: 13px;
+  min-width: 35px;
+}
+
+.data-6 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 27px;
+  min-height: 13px;
+  min-width: 35px;
+}
+
+.data-7 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 139px;
+  min-height: 13px;
+  min-width: 35px;
+}
+
+.data-8 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 64px;
+  min-height: 13px;
+  min-width: 35px;
+}
+
+.data-9 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 132px;
+  min-height: 13px;
+}
+
+.navbar.flex-col-1-item {
+  margin-top: 18px;
+}
+

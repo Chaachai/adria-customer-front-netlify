@@ -1,0 +1,51 @@
+.group-1 {
+  align-items: flex-start;
+  display: flex;
+  gap: 1px;
+  height: 6px;
+  justify-content: flex-end;
+  left: 2px;
+  min-width: 8px;
+  padding: 0 1.8px;
+  position: absolute;
+  top: 0;
+}
+
+.rectangle-11 {
+  background-color: var(--steel-blue);
+  height: 6px;
+  margin-top: -0.17px;
+  transform: rotate(-45deg);
+  width: 2px;
+}
+
+.rectangle-10 {
+  background-color: var(--steel-blue);
+  height: 6px;
+  margin-top: -0.17px;
+  transform: rotate(45deg);
+  width: 2px;
+}
+
+.group-1.group-2 {
+  left: 0;
+}
+
+.group-1.group-3 {
+  align-self: center;
+  height: unset;
+  left: unset;
+  margin-bottom: 0.34px;
+  position: unset;
+  top: unset;
+}
+
+.group-1.group-4 {
+  align-self: center;
+  height: unset;
+  left: unset;
+  margin-bottom: 2.34px;
+  position: unset;
+  top: unset;
+}
+
